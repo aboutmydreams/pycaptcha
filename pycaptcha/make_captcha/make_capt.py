@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import numpy as np
 import random,time
 
-import make_captcha.noise
+from pycaptcha import make_captcha
 
 
 
